@@ -5,6 +5,7 @@ int main(){
 	  cout<<"\t\t\tMenghitung determinan matriks 3×3 \n\n\n";
   
   lanjutin ya kawan :))))))))
+	  pake pointer bambang *oktil
   
   
   
