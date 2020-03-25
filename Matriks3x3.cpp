@@ -11,6 +11,7 @@ int main(){
 	  yok bisa yok *oktas,nadia
   
   kan blom dibenerin ke pointer punya w din @dina wkwkwwk
-  
+   ohh iya astaga kek mana ahaha
+	  
 return 0;
 }
