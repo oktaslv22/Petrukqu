@@ -10,7 +10,7 @@ int main(){
   dah lah gamau sok tau :(( nti salah:((
 	  yok bisa yok *oktas,nadia
   
-  
+  kan blom dibenerin ke pointer punya w din @dina wkwkwwk
   
 return 0;
 }
