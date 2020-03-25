@@ -3,9 +3,21 @@ using namespace std;
 int main(){
     int i,j,matriks[3][3],det;
 	  cout<<"\t\t\tMenghitung determinan matriks 3×3 \n\n\n";
-  
-  lanjutin ya kawan :))))))))
-	  yaaudh sbar ya mikir dulu:)))))
+	
+	for (i=1; i<=3; i++){
+		for (j=1; j<=3; j++){
+			cout << "input matriks ke "<<i<<", "<<j<<" = ";
+			cin >> matriks [i-1][j-1];
+		}
+	}
+	cout << endl << endl;
+	cout << "tampilkan matriks yang terinput :";
+	for ( i=1; j<=3; i++ ){
+		cout << endl << " ";
+		for ( int j=1; j<=3; j++ ) {
+			cout << matriks [i-1][j-1] << " ";
+		}
+	}
   
   
   
