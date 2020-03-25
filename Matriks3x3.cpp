@@ -12,6 +12,6 @@ int main(){
   
   kan blom dibenerin ke pointer punya w din @dina wkwkwwk
    ohh iya astaga kek mana ahaha
-	  
+	  @nadia nad gmn:(
 return 0;
 }
