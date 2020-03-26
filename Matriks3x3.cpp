@@ -12,6 +12,8 @@ int main(){
 			cin >> matriks[i-1][j-1];
 		}
 	}
+	cout<<end<<endl;
+	cout<<" Tampilan matriks yang terinput = ";
 	// yok lanjut @din @nad
   
 return 0;
