@@ -14,6 +14,13 @@ int main(){
 	}
 	cout<<end<<endl;
 	cout<<" Tampilan matriks yang terinput = ";
+	for(i=1;i<=3;i++){
+		cout<<endl<<" ";
+			for(int j=1;j<=3;j++){
+				cout<<matriks[i-1][j-1]<<" ";
+			}
+	}
+
 	// yok lanjut @din @nad
   
 return 0;
