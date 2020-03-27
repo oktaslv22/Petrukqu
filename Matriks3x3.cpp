@@ -13,7 +13,7 @@ int main(){
 		}
 	}
 	cout<<endl<<endl;
-	cout<<" Tampilan matriks yang terinput = ";
+	cout<<"Tampilan matriks yang terinput = ";
 	for(i=1;i<=3;i++){
 		cout<<endl<<" ";
 			for(int j=1;j<=3;j++){
@@ -24,7 +24,7 @@ int main(){
 	det = matriks[0][0]*matriks[1][1]*matriks[2][2] + matriks[0][1]*matriks[1][2]*matriks[2][0] 
 		+matriks[0][2]*matriks[1][0]*matriks[2][1] - matriks[0][2]*matriks[1][1]*matriks[2][0]
 		- matriks[0][0]*matriks[1][2]*matriks[2][1] - matriks[0][1]*matriks[1][0]*matriks[2][2];
-		cout << "\n\n Determinannya adalah : "<<*determinan;
+		cout << "\n\nDeterminannya adalah : "<<*determinan;
   
 return 0;
 }
