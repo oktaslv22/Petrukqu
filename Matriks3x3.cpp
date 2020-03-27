@@ -12,7 +12,7 @@ int main(){
 			cin >> matriks[i-1][j-1];
 		}
 	}
-	cout<<end<<endl;
+	cout<<endl<<endl;
 	cout<<" Tampilan matriks yang terinput = ";
 	for(i=1;i<=3;i++){
 		cout<<endl<<" ";
