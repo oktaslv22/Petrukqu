@@ -24,6 +24,7 @@ int main(){
 	det = matriks[0][0]*matriks[1][1]*matriks[2][2] + matriks[0][1]*matriks[1][2]*matriks[2][0] 
 		+matriks[0][2]*matriks[1][0]*matriks[2][1] - matriks[0][2]*matriks[1][1]*matriks[2][0]
 		- matriks[0][0]*matriks[1][2]*matriks[2][1] - matriks[0][1]*matriks[1][0]*matriks[2][2];
+		cout<<"\n\n Determinannya adalah : "<<*determinan;
   
 return 0;
 }
